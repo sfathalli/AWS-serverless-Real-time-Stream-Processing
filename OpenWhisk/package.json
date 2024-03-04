@@ -1,0 +1,8 @@
+{
+  "name": "my-wsk-action",
+  "version": "1.0.0",
+  "main": "main.js",
+  "dependencies": {
+    "cloudant": "^1.7.0"
+  }
+}
